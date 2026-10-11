@@ -1,4 +1,4 @@
-# 5. AI アクションでご当地情報を生成する
+# 4. AI アクションでご当地情報を生成する
 
 1. イベントソースにつながる「アクション」を追加し、**AI アクション** を選択
 2. モデルを選択（テキスト生成ができるもの）
@@ -37,4 +37,4 @@
 
 ---
 
-[← 4. SORACOM Flux アプリを作成する](./05-flux-app.md) ｜ [目次](./README.md) ｜ [6. Webhook アクションで Discord に投稿する →](./07-webhook-discord.md)
+[← 3. SORACOM Flux アプリを作成する](./03-flux-app.md) ｜ [目次](./README.md) ｜ [5. Webhook アクションで Discord に投稿する →](./05-webhook-discord.md)

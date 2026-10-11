@@ -1,4 +1,4 @@
-# 7. 動かしてみよう 🎉
+# 6. 動かしてみよう 🎉
 
 1. 白ボタンを **1回（シングルクリック）** 押す
 2. 数十秒ほど待つ
@@ -17,4 +17,4 @@
 
 ---
 
-[← 6. Webhook アクションで Discord に投稿する](./07-webhook-discord.md) ｜ [目次](./README.md) ｜ [8. うまくいかないときは →](./09-troubleshooting.md)
+[← 5. Webhook アクションで Discord に投稿する](./05-webhook-discord.md) ｜ [目次](./README.md) ｜ [7. うまくいかないときは →](./07-troubleshooting.md)

@@ -1,4 +1,4 @@
-# 6. Webhook アクションで Discord に投稿する
+# 5. Webhook アクションで Discord に投稿する
 
 1. AI アクションの後ろに **Webhook アクション** を追加
 2. 以下のように設定
@@ -6,7 +6,7 @@
 | 項目     | 設定値                            |
 | -------- | --------------------------------- |
 | メソッド | `POST`                            |
-| URL      | 手順1で控えた Discord Webhook URL |
+| URL      | 事前準備で控えた Webhook URL      |
 | ヘッダー | `Content-Type: application/json`  |
 
 3. **ボディ** を設定
@@ -26,4 +26,4 @@
 
 ---
 
-[← 5. AI アクションでご当地情報を生成する](./06-ai-action.md) ｜ [目次](./README.md) ｜ [7. 動かしてみよう 🎉 →](./08-try-it.md)
+[← 4. AI アクションでご当地情報を生成する](./04-ai-action.md) ｜ [目次](./README.md) ｜ [6. 動かしてみよう 🎉 →](./06-try-it.md)
