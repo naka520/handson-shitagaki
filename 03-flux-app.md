@@ -34,4 +34,4 @@
 
 ---
 
-[← 2. SIM グループを作成して簡易位置測位を有効にする](./02-sim-group-location.md) ｜ [目次](./README.md) ｜ [4. AI アクションでご当地情報を生成する →](./04-ai-action.md)
+[← 2. SIM グループを設定して簡易位置測位を有効にする](./02-sim-group-location.md) ｜ [目次](./README.md) ｜ [4. AI アクションでご当地情報を生成する →](./04-ai-action.md)
