@@ -28,29 +28,31 @@
 
 ### SIM グループの設定を確認する
 
-デバイスの設定は、SIM グループの設定として保存されます。一覧で自分のボタンにチェックを入れて「SIM グループを編集」を開き、以下が ON になっていることを確認します。
+デバイスの設定は、SIM グループの設定として保存されます。以下の手順で、設定が ON になっていることを確認します。
 
-ユーザーコンソールの「SORACOM Air for セルラー」＞「SIMグループ」を選択します。
-![SIMグループ](./image/02-06.png)
+1.  ユーザーコンソールの「SORACOM Air for セルラー」＞「SIMグループ」を選択します。
+    ![SIMグループ](./image/02-06.png)
 
-自身のSIMグループを開き、設定が以下のようになっていることを確認します。
+2.  自身のSIMグループを開き、設定が以下のようになっていることを確認します。
+    - **SORACOM Air for セルラー設定**
+      - 簡易位置測位機能：ON
+      - バイナリパーサー：ON（形式 `@button`。ボタンのクリック種別などを JSON に変換します）
 
-- **SORACOM Air for セルラー設定**
-  - 簡易位置測位機能：ON
-  - バイナリパーサー：ON（形式 `@button`。ボタンのクリック種別などを JSON に変換します）
-    ![SORACOM Air for セルラー設定](./image/02-07.png)
+      ![SORACOM Air for セルラー設定](./image/02-07.png)
 
-- **SORACOM Harvest Data 設定**：ON
-  ![SORACOM Harvest Data 設定](./image/02-08.png)
+    - **SORACOM Harvest Data 設定**：ON
+
+      ![SORACOM Harvest Data 設定](./image/02-08.png)
 
 ### データが届くことを確認する
 
 ボタンを1回押し、Harvest Data 上でペイロードと位置情報が届いていることを確認します。
-ユーザーコンソールから「データ収集・蓄積・可視化」＞「SORACOM Harvest Data」を選択します。
-![SORACOM Harvest Data](./image/02-09.png)
 
-デバイスのSIM IDを選択し、表示形式をTableにします。ボタンを押して取得したデータを確認します。
-![データの確認](image/02-10.png)
+1.  ユーザーコンソールから「データ収集・蓄積・可視化」＞「SORACOM Harvest Data」を選択します。
+    ![SORACOM Harvest Data](./image/02-09.png)
+
+2.  デバイスのSIM IDを選択し、表示形式をTableにします。ボタンを押して取得したデータを確認します。
+    ![データの確認](./image/02-10.png)
 
 ---
 
