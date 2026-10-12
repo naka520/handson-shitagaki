@@ -6,4 +6,4 @@
 
 ---
 
-[← 9. 後片付け](./09-cleanup.md) ｜ [目次](./README.md)
+[← 4. 後片付け](./04-cleanup.md) ｜ [目次](./README.md)
